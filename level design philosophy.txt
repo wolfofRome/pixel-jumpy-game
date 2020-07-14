@@ -1,0 +1,8 @@
+level design philosophy
+-----------------------
++intended route through the level should take you 20-35s
++1 secret area max
++compact, but not cramped
++try not to confuse the player
++fill in the level outline so it doesnt look like the level is floating in space
++do not allow the player to get trapped
